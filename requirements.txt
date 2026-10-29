@@ -1,0 +1,5 @@
+mkdocs-material==9.5.*
+mkdocs-callouts==1.*
+mkdocs-awesome-nav==3.*
+mkdocs-glightbox==0.4.*
+mkdocs-git-revision-date-localized-plugin==1.*
